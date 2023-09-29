@@ -50,7 +50,7 @@ function App() {
         </div>
             <div className="align-text">
             <h2>Tem Firefox novo no pedaço e você vai querer migrar</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vestibulum auctor est.</p>
+            <p>pra falar de migração, agora é o Edge que manda no coração</p>
             </div>
         </article>
         </div>
